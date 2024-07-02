@@ -1,3 +1,4 @@
 source 'https://rubygems.org'
 
+gem 'pathgem', path: '../first_pkg/vendor/pathgem'
 gem 'tilt'
