@@ -12,8 +12,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  pathgem
+  pathgem (~> 1.0)!
   tilt
 
 BUNDLED WITH
-   2.2.33
+   2.3.26
